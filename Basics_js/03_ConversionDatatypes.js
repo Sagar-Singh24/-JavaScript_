@@ -15,7 +15,7 @@ console.log(typeof (flag));
 
 let flag0 = Number(flag)
 console.log(typeof flag0);
-console.log(flag0);
+console.log(flag0)
 
 //*****************************************************************************
 
