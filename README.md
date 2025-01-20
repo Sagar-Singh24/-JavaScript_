@@ -5,3 +5,4 @@ JavaScript is a programming language that allows developers to create interactiv
 <br>
 1.Basics_js
 <br>
+2.Maths&Num
