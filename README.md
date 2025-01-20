@@ -9,3 +9,4 @@ JavaScript is a programming language that allows developers to create interactiv
 <br>
 3.Array
 <br>
+4.Objects
