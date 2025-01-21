@@ -11,4 +11,4 @@ JavaScript is a programming language that allows developers to create interactiv
 <br>
 4.Objects
 <br>
-5.
+5.Functions
