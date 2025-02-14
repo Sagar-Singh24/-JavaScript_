@@ -7,7 +7,7 @@ console.log(Math.min(4,7,2,9));
 console.log(Math.max(4,7,2,9));
 
 console.log(Math.random());
-console.log((Math.random()*10) + 1);
+console.log((Math.random()*10) + 1)
 console.log((Math.random()*10) + 1)
 
 const min = 10
