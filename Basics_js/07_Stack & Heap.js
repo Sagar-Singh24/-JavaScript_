@@ -7,7 +7,7 @@ anothername = "SinghCode"
 
 
 console.log(myYoutubename);
-console.log(anothername);
+console.log(anothername)
 
 let userOne = {
     email: "user@google.com",
