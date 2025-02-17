@@ -6,7 +6,7 @@ let anothername = myYoutubename
 anothername = "SinghCode"
 
 
-console.log(myYoutubename);
+console.log(myYoutubename)
 console.log(anothername)
 
 let userOne = {
