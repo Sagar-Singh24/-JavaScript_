@@ -27,6 +27,6 @@ console.log(3
     console.log(typeof "Sagar")
     console.log(typeof 25)
     console.log(typeof true)
-    console.log(typeof null);//object
+    console.log(typeof null)//object
     console.log(typeof undefined);//Undefined
     
