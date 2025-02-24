@@ -24,7 +24,7 @@ console.log(3
 
     //object
 
-    console.log(typeof "Sagar");
+    console.log(typeof "Sagar")
     console.log(typeof 25);
     console.log(typeof true);
     console.log(typeof null);//object
